@@ -6,5 +6,8 @@ These embeddings can be regularly queried with LLM based on similarities.
 The output and input for queries are displayed in simple FLask Web application framework.
 There is no cloud involved in betweeen and everything is running on local.
 
+
+This is just a poc not for production. Its for you own personal use case
+
 ![image](https://github.com/user-attachments/assets/8e2902d6-d098-471d-98a0-834dd72f5ce1)
 
