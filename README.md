@@ -11,3 +11,11 @@ This is just a poc not for production. Its for you own personal use case
 
 ![image](https://github.com/user-attachments/assets/8e2902d6-d098-471d-98a0-834dd72f5ce1)
 
+Steps to run(basics)
+
+
+1)place pdf in the folder
+
+2)Run the python code
+
+3)browse http://127.0.0.1:5000/ to access app
